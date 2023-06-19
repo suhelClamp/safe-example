@@ -1,0 +1,1 @@
+export const goerliRpc = "https://rpc.ankr.com/eth_goerli"
