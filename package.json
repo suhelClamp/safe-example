@@ -14,8 +14,6 @@
     "@mantine/form": "^6.0.6",
     "@mantine/hooks": "^6.0.6",
     "@mantine/notifications": "^6.0.6",
-    "@polybase/client": "^0.3.39",
-    "@polybase/eth": "^0.3.39",
     "@safe-global/auth-kit": "^0.1.0-alpha.2",
     "@safe-global/relay-kit": "^0.1.0-alpha.2",
     "@safe-global/safe-core-sdk": "^3.3.2",
@@ -35,11 +33,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.3",
-    "uuid": "^9.0.0",
     "wagmi": "^0.12.9"
   },
   "devDependencies": {
-    "@types/uuid": "^9.0.1",
     "ts-node": "^10.9.1"
   }
 }
